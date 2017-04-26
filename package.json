@@ -1,0 +1,20 @@
+{
+  "name": "hsl-to-rgb",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.15.2"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hsl-to-rgb"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
